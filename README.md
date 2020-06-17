@@ -40,11 +40,6 @@
 ### Screenshots
 <table>
 	<tr>
-		<th width="100%">
-			Web Interface<br>
-		</th>
-	</tr>
-	<tr>
 		<td>
 			<img width="1080" src="https://raw.githubusercontent.com/silvacx/be-the-hero/master/img/web.gif">
 		</td>
@@ -52,17 +47,6 @@
 </table>
 
 <table>
-	<tr>
-		<th width="33.3%">
-			App splash screen<br>
-		</th>
-		<th width="33.3%">
-			App incident list
-		</th>
-    <th width="33.3%">
-			App incident detail
-		</th>
-	</tr>
 	<tr><!-- Prevent zebra stripes --></tr>
 	<tr>
 		<td>
@@ -158,7 +142,7 @@ $ expo start
 
 ### :mortar_board: Quem ministrou?
 
-A semana foi ministrada pelo <b>Mestre</b> [Diego Fernandes](https://github.com/diego3g)
+A semana foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
 
 ### :memo: Licença
 
@@ -166,4 +150,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-<p align="center">Feito com por [Camila Silva](https://www.linkedin.com/in/camila-n-45401b55/)</p>
+<p align="center">Feito por <a href="https://www.linkedin.com/in/camila-n-45401b55/">Camila Silva</a></p>
